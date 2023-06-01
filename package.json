@@ -1,0 +1,26 @@
+{
+  "name": "full-eccom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinOlivo52/fullstack-eccom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinOlivo52/fullstack-eccom/issues"
+  },
+  "homepage": "https://github.com/JustinOlivo52/fullstack-eccom#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
